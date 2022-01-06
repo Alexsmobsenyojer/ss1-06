@@ -9,4 +9,4 @@ services:
             - 80:80
         volumes:
             - ./www:/usr/share/nginx/html
-            - ./ngix:/etc/nginx/conf.d/
+            - ./ngincx:/etc/nginx/conf.d/
